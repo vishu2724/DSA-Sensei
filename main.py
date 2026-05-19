@@ -52,7 +52,7 @@ if user_input:
         model="llama-3.1-8b-instant",
         messages=st.session_state.messages,
         temperature=0.3,
-        max_tokens=100
+        max_tokens=500
     )
 
     reply = response.choices[0].message.content
