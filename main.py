@@ -29,7 +29,7 @@ if "messages" not in st.session_state:
         {"role": "system", "content": SYSTEM_PROMPT}
     ]
 
-st.title("DSA Chatbot 💻")
+st.title("DSA Sensei 🥷🏼")
 
 # display old messages
 for msg in st.session_state.messages[1:]:
