@@ -9,12 +9,14 @@ Session-based conversational memory
 Fast AI-generated explanations using Groq LLMs
 Simple and interactive Streamlit UI
 Interview-oriented problem-solving support
+
 🛠️ Tech Stack
 Python
 Streamlit
 Groq API
 LLMs
 Prompt Engineering
+
 📌 Future Enhancements
 AI Mock Interview Mode
 Resume-based Interview Question Generator
@@ -52,9 +54,12 @@ GROQ_API_KEY=your_api_key
 Run the project:
 
 streamlit run app.py
+
+
 🌐 Deployment
 
 Deployed using Streamlit Community Cloud.
+
 
 👨‍💻 Author
 
