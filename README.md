@@ -23,6 +23,7 @@ Topic-wise DSA Dashboard
 LeetCode-style Problem Interface
 
 📂 Project Structure
+```
 project/
 │
 ├── app.py
@@ -30,11 +31,14 @@ project/
 ├── .env
 ├── .gitignore
 └── README.md
+```
+
 ⚙️ Installation
 
 Clone the repository:
 
 git clone https://github.com/vishu2724/DSA-Sensei
+
 cd DSA-Sensei
 
 Install dependencies:
